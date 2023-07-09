@@ -82,11 +82,11 @@ nav a {
     justify-content: space-around;
 }
 .contact-btn{
-    background-color: transparent;
-    border: 2px solid #FD6E0A;
+    background: transparent;
     color: #FD6E0A;
-    /* padding: 1px; */
+    border: 3px solid #FD6E0A;
 }
+
 .banner-content {
     max-width: 500px;
 }
